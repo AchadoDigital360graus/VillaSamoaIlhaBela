@@ -1,0 +1,14 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_03CE32EE_0EFD_B34A_419B_FCCD1754C83F.label = Aére Santa Pizza (1)
+
+## Tour
+
+### Description
+tour.description = Ilha Bela
+
+### Title
+tour.name = Villa Samoa 
