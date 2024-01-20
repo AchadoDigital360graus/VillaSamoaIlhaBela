@@ -1,15 +1,100 @@
 #: locale=pt
 
+## Action
+
+### URL
+LinkBehaviour_B82A7A5F_B71E_5238_41E2_3E1754F4F65A.source = http://twitter.com/loremipsum
+LinkBehaviour_C202DA2E_D022_274C_41E1_8A22105AD9F2.source = https://achadodigital.com.br/pagina-exemplo/
+LinkBehaviour_C28CFA7A_D02E_27D4_41BB_858485A3E660.source = https://achadodigital.com.br/pagina-exemplo/
+LinkBehaviour_DD2AE81C_FCF4_B071_41E1_9C6B33C8B5F0.source = https://api.whatsapp.com/send?phone=&text=%20https://achadodigital360graus.github.io/iGUiPiscinasPiracicaba/%20
+LinkBehaviour_DCE942CC_FC93_91D2_41EA_547A6681BE6A.source = https://api.whatsapp.com/send?phone=&text=%20https://achadodigital360graus.github.io/iGUiPiscinasPiracicaba/%20
+LinkBehaviour_B82AAA5F_B71E_5238_41A9_EFD7B668C80E.source = https://www.facebook.com/iguiconceitopiracicaba/?paipv=0&eav=AfawkqjXVgBd_WPMqDSvrypMU2DiMGxbUetuFHVQxyzoAl43N3pBlKJTVF0aa0T3vkw&_rdr
+LinkBehaviour_A2504205_B92B_9735_41AA_30F20CF2680C.source = https://www.facebook.com/iguiconceitopiracicaba/?paipv=0&eav=AfawkqjXVgBd_WPMqDSvrypMU2DiMGxbUetuFHVQxyzoAl43N3pBlKJTVF0aa0T3vkw&_rdr
+PopupWebFrameBehaviour_E1B19587_F3AD_029D_41C0_25B916E74578.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d857.7421937905452!2d-45.36375776607976!3d-23.806960904544916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d2996692a9680f%3A0x3ff724158a1e6899!2sVilla%20Samoa%20Chal%C3%A9s%20Ilhabela!5e1!3m2!1spt-BR!2sbr!4v1705617394029!5m2!1spt-BR!2sbr
+PopupWebFrameBehaviour_E1CB3F87_F3A3_1E9D_41EB_0F23D2BE54EA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d857.7421937905452!2d-45.36375776607976!3d-23.806960904544916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d2996692a9680f%3A0x3ff724158a1e6899!2sVilla%20Samoa%20Chal%C3%A9s%20Ilhabela!5e1!3m2!1spt-BR!2sbr!4v1705617394029!5m2!1spt-BR!2sbr
+PopupWebFrameBehaviour_4BD5C803_141F_3125_418E_4E44D83696A3.url = https://www.igui.com/br
+PopupWebFrameBehaviour_77325B9E_141D_175F_41AE_70382BF0DD81.url = https://www.igui.com/br
+LinkBehaviour_E866CB5A_FC95_B0F6_41E7_C87E84C2A7D1.source = https://www.instagram.com/iguipiracicaba/
+LinkBehaviour_A251B205_B92B_9735_41E5_83B15D4E9076.source = https://www.instagram.com/iguipiracicaba/
+LinkBehaviour_9FA45FE3_8649_4EE9_41BD_A260EC059D66.source = https://www.instagram.com/iguipiracicaba/
+
 ## Media
 
 ### Audio
-audiores_1C2C494B_0F0C_514A_41AE_168F192AB998.mp3Url = media/audio_1D3BF4D4_0F0C_575E_41AE_B5CB3F60028B_pt.mp3
+audiores_0B1434AC_1E9F_1677_41B9_2C4F3CCFA4AC.mp3Url = media/audio_07ED81BB_1E9F_0E50_41A0_1B7B63881DD1_pt.mp3
 
 ### Title
-panorama_1E0A5E09_0F0C_52B6_41A7_53CF514A379A.label = SAM_100_0515
-panorama_00DFA952_0F3C_515A_4197_0D726182F8A0.label = SAM_100_0516
-panorama_1EB8E79C_0F0C_D1CE_41A6_4D2599ADE819.label = SAM_100_0524
-panorama_1F456DA5_0F3B_B1FE_41A0_458A9C1B268F.label = SAM_100_0524
+panorama_04094883_234E_45DE_41A3_B70DD2FB1432.label = Banheiro Chalé P
+panorama_040F5E5A_234E_7D69_4196_E1FD89ABA8A3.label = Banheiro Externo
+panorama_040A60F6_234A_4526_4192_21850C6D5098.label = Banheiro Inferior Chalé G
+panorama_040AC237_234A_4527_41B4_0F4F40120600.label = Banheiro Suite
+panorama_0408EBE4_234E_DB5A_41B9_47D284105396.label = Churrasqueira
+panorama_040BDDB5_234A_DF3B_4195_879AFBE360AA.label = Closed
+panorama_040A89C5_234A_475B_41C1_9CAD51D5286A.label = Cozinha Chalé G
+panorama_040872EB_2349_C52E_41BB_864AA9BE5BFE.label = Entrada Apto P
+panorama_040865F8_234E_4F2A_41A0_B382919905BE.label = Entrada D Chalé GR
+panorama_0408152D_234E_4F2A_41B5_8A2BEEFD079E.label = Entrada E Chalé GR
+panorama_040E819D_234E_47EA_41B9_BCDC32F28EB4.label = Escada Chalé P
+panorama_040A8D5C_234A_7F6A_41B8_AE55ACA14353.label = Escada Sala Chalé G
+panorama_04087292_2349_C5FE_41B0_0619ABC8D303.label = Estacionamento
+panorama_040FBD04_234E_BCD9_41A8_4A274335F8A9.label = Gourmet 1
+panorama_040FFD4B_234E_5F6E_41B8_3274C1C9E71E.label = Gournet sofá
+panorama_0408DE8D_234E_7DEB_4184_AE856FFD215A.label = Hall Chalé P
+panorama_040F741C_2349_CCE9_41BF_9851090AFA48.label = Hall Chalés G
+panorama_040F7482_234E_4DD9_4195_3F008948844A.label = Hall Rede
+panorama_040EA3A8_234E_CB2A_41B0_18A67FC45789.label = Hall Superior Chalé P
+panorama_040A0BEC_234B_FB29_41B9_3ED82CD8B991.label = Janela Chalé G
+panorama_040F9213_234F_C4FF_417C_9377099C6D4D.label = Jardim fundos
+panorama_040FFB08_234E_C4EA_41AD_3761B4EC9229.label = Piscina 1
+panorama_040F4802_234E_44D9_4186_F420A5C7494C.label = Piscina 2 E
+panorama_040F7EFB_234F_DD2F_41A1_EBA5A34694CA.label = Piscina 3F
+panorama_040F0E4D_234E_5D6A_419F_0775E37A2588.label = Piscina 4DF
+panorama_040F6E94_234F_BDF9_41B8_207A239064D8.label = Piscina 5D
+panorama_04093985_234E_47DB_41A0_DA374854A19E.label = Porta Hall Chale P
+panorama_0408FFFA_234F_FB2F_41BD_03CE234D978A.label = Portãozinho
+panorama_04096478_234E_4D29_41BC_4CB836C1F911.label = Quarto Chalá P
+panorama_040AF975_234A_C73B_41C0_C4BBE926A13F.label = Quarto Chalé G
+panorama_04451EC8_234A_7D6A_41C0_5BBC02DAAE05.label = Rua
+panorama_040EAB85_234E_BBDB_41BA_2A81ABE55C6B.label = Sacada Chale P
+panorama_040AD606_234A_4CE7_41B4_F1AD81A72085.label = Sacada Chalé G
+panorama_0409B5CA_2349_CF6E_41BA_CA474560DFDD.label = Sala 1 Chalé G
+panorama_04095D69_2349_DF2A_417B_734CEB0F984D.label = Sala 2 Chalé G
+panorama_04097EC9_234E_5D6A_41B7_F72042CE934F.label = Sala Chalé P
+panorama_040AE3B6_234A_CB26_41A0_E5C7DFECF0DB.label = Topo Escada Chalé G
+panorama_040FB064_234A_455A_41B0_32F7C2EBF13A.label = Área Serviço frente
+
+## Skin
+
+### Button
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = 360º  VISTAS
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = 360º VISTAS
+Button_E95BFF25_FCB4_B053_41D3_1F9A2118862D.label = COMPARTILHAR
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = IMAGENS
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = IMAGENS
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = INFO
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFO
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9_mobile.label = LOCAL
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9.label = LOCAL
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4_mobile.label = SAIBA MAIS
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4.label = SAIBA MAIS
+
+### Image
+Image_0C05BF37_1EB4_F250_41A3_1F687D397A67.url = skin/Image_0C05BF37_1EB4_F250_41A3_1F687D397A67_pt.png
+Image_0CC91337_1EBF_1251_41A9_96581511A9AD.url = skin/Image_0CC91337_1EBF_1251_41A9_96581511A9AD_pt.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile_pt.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_pt.png
+Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_pt.jpg
+Image_AC701E99_B9F6_6F5A_41E1_4973042D0A4B_mobile.url = skin/Image_AC701E99_B9F6_6F5A_41E1_4973042D0A4B_mobile_pt.png
+Image_AC701E99_B9F6_6F5A_41E1_4973042D0A4B.url = skin/Image_AC701E99_B9F6_6F5A_41E1_4973042D0A4B_pt.png
+Image_C0E58733_D022_2D54_41D7_04B5A16870B9.url = skin/Image_C0E58733_D022_2D54_41D7_04B5A16870B9_pt.png
+Image_C3340279_D022_67D4_41E2_BD0D6A7EDB89.url = skin/Image_C3340279_D022_67D4_41E2_BD0D6A7EDB89_pt.png
+Image_EC4BE021_F3A7_0195_41EE_6C0072D0B530.url = skin/Image_EC4BE021_F3A7_0195_41EE_6C0072D0B530_pt.png
+
+### Multiline Text
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:2.899999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.9vw;word-break:break-word;font-family:'Exo';"><B><I>iGUi Piscinas</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.45vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.4499999999999993vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:1.45vw;word-break:break-word;font-family:'Exo';"><B><I>Sobre a iGUi</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.45vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.4499999999999993vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:1.45vw;word-break:break-word;font-family:'Exo';"><B><I>“iGUi é áGUa”</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.340996168582384vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">Ë, ëg, ü, üg, y, yg, i, ig, são traduções de água na língua tupi guarani, foi por respeito e para homenagear nossos antepassados que escolhemos a nossa marca.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.34vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.340996168582384vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">Temos grande admiração por sua harmonia com a natureza e a profunda ligação que tinham com a água.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.34vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.340996168582384vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">Viviam à beira mar, à margem de rios, lagos e os nomeavam sempre respeitosamente, pois necessitavam e adoravam a fonte da vida. A água, "iGUi".</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.34vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.340996168582384vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">Nosso trabalho está sempre à frente no tempo, desenvolvendo e utilizando o melhor em tecnologia para levar felicidade. Paralelamente, estamos conectados à sustentabilidade, pois devemos isso aos nossos índios e às gerações futuras. São inúmeros programas dedicados ao meio ambiente e sua conservação.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.34vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.340996168582384vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">Esses dois pilares, unidos à dedicação de todos os colaboradores e parceiros em produzir mais e melhor para o consumidor, que formam nossos conceitos básicos.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.34vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.340996168582384vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">Hoje são mais de 10.000 pessoas ao redor do mundo, em mais de 50 países dando o melhor de si para produzir e realizar sonhos.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.245210727969353vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:1.25vw;word-break:break-word;font-family:'Roboto Black';">“iGUi A SUA PISCINA”</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.25vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:4.722222222222246vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vw;word-break:break-word;font-family:'Exo';"><B><I>iGUi Piscinas</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.67vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.45vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:4.205000000000014vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:4.21vw;word-break:break-word;font-family:'Exo';"><B><I>Sobre a iGUi</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:4.205000000000014vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:4.21vw;word-break:break-word;font-family:'Exo';"><B><I>“iGUi é áGUa”</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.67vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.8888888888889017vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">Ë, ëg, ü, üg, y, yg, i, ig, são traduções de água na língua tupi guarani, foi por respeito e para homenagear nossos antepassados que escolhemos a nossa marca.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.8888888888889017vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">Temos grande admiração por sua harmonia com a natureza e a profunda ligação que tinham com a água.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.8888888888889017vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">Viviam à beira mar, à margem de rios, lagos e os nomeavam sempre respeitosamente, pois necessitavam e adoravam a fonte da vida. A água, "iGUi".</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.8888888888889017vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">Nosso trabalho está sempre à frente no tempo, desenvolvendo e utilizando o melhor em tecnologia para levar felicidade. Paralelamente, estamos conectados à sustentabilidade, pois devemos isso aos nossos índios e às gerações futuras. São inúmeros programas dedicados ao meio ambiente e sua conservação.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.8888888888889017vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">Esses dois pilares, unidos à dedicação de todos os colaboradores e parceiros em produzir mais e melhor para o consumidor, que formam nossos conceitos básicos.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.8888888888889017vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">Hoje são mais de 10.000 pessoas ao redor do mundo, em mais de 50 países dando o melhor de si para produzir e realizar sonhos.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.6111111111111134vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:3.61vw;word-break:break-word;font-family:'Roboto Black';">“iGUi A SUA PISCINA”</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.61vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 10px rgba(0,0,0,0.6);text-align:left;font-size:6.5600000000000165vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;word-break:break-word;font-family:'Exo';"><B><I>  Ilha Bela</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 5px rgba(0,0,0,0.6);text-align:left;font-size:4.809999999999997vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#40bbff;font-size:4.81vmin;word-break:break-word;font-family:'Exo';"><B><I>PISCINAS</I></B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 5px rgba(0,0,0,0.6);line-height:118%;text-align:left;font-size:6.5600000000000165vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;word-break:break-word;font-family:'Exo';"><B><I>Piracicaba</I></B></SPAN></SPAN></DIV></div>
 
 ## Tour
 
@@ -17,4 +102,4 @@ panorama_1F456DA5_0F3B_B1FE_41A0_458A9C1B268F.label = SAM_100_0524
 tour.description = Ilha Bela
 
 ### Title
-tour.name = Villa Samoa 
+tour.name = Villa Samoa Chalés
