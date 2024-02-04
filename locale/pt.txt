@@ -6,25 +6,26 @@
 LinkBehaviour_B82A7A5F_B71E_5238_41E2_3E1754F4F65A.source = http://twitter.com/loremipsum
 LinkBehaviour_C202DA2E_D022_274C_41E1_8A22105AD9F2.source = https://achadodigital.com.br/pagina-exemplo/
 LinkBehaviour_C28CFA7A_D02E_27D4_41BB_858485A3E660.source = https://achadodigital.com.br/pagina-exemplo/
-LinkBehaviour_DD2AE81C_FCF4_B071_41E1_9C6B33C8B5F0.source = https://api.whatsapp.com/send?phone=&text=%20https://achadodigital360graus.github.io/iGUiPiscinasPiracicaba/%20
-LinkBehaviour_DCE942CC_FC93_91D2_41EA_547A6681BE6A.source = https://api.whatsapp.com/send?phone=&text=%20https://achadodigital360graus.github.io/iGUiPiscinasPiracicaba/%20
-LinkBehaviour_B82AAA5F_B71E_5238_41A9_EFD7B668C80E.source = https://www.facebook.com/iguiconceitopiracicaba/?paipv=0&eav=AfawkqjXVgBd_WPMqDSvrypMU2DiMGxbUetuFHVQxyzoAl43N3pBlKJTVF0aa0T3vkw&_rdr
-LinkBehaviour_A2504205_B92B_9735_41AA_30F20CF2680C.source = https://www.facebook.com/iguiconceitopiracicaba/?paipv=0&eav=AfawkqjXVgBd_WPMqDSvrypMU2DiMGxbUetuFHVQxyzoAl43N3pBlKJTVF0aa0T3vkw&_rdr
-PopupWebFrameBehaviour_E1B19587_F3AD_029D_41C0_25B916E74578.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d857.7421937905452!2d-45.36375776607976!3d-23.806960904544916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d2996692a9680f%3A0x3ff724158a1e6899!2sVilla%20Samoa%20Chal%C3%A9s%20Ilhabela!5e1!3m2!1spt-BR!2sbr!4v1705617394029!5m2!1spt-BR!2sbr
+LinkBehaviour_DD2AE81C_FCF4_B071_41E1_9C6B33C8B5F0.source = https://api.whatsapp.com/send?phone=&text=%20https://achadodigital360graus.github.io/VillaSamoaIlhaBela/%20
+LinkBehaviour_DCE942CC_FC93_91D2_41EA_547A6681BE6A.source = https://api.whatsapp.com/send?phone=&text=%20https://achadodigital360graus.github.io/VillaSamoaIlhaBela/%20
+LinkBehaviour_B82AAA5F_B71E_5238_41A9_EFD7B668C80E.source = https://www.facebook.com/villasamoa.chales
+LinkBehaviour_A2504205_B92B_9735_41AA_30F20CF2680C.source = https://www.facebook.com/villasamoa.chales
 PopupWebFrameBehaviour_E1CB3F87_F3A3_1E9D_41EB_0F23D2BE54EA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d857.7421937905452!2d-45.36375776607976!3d-23.806960904544916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d2996692a9680f%3A0x3ff724158a1e6899!2sVilla%20Samoa%20Chal%C3%A9s%20Ilhabela!5e1!3m2!1spt-BR!2sbr!4v1705617394029!5m2!1spt-BR!2sbr
-PopupWebFrameBehaviour_4BD5C803_141F_3125_418E_4E44D83696A3.url = https://www.igui.com/br
-PopupWebFrameBehaviour_77325B9E_141D_175F_41AE_70382BF0DD81.url = https://www.igui.com/br
-LinkBehaviour_E866CB5A_FC95_B0F6_41E7_C87E84C2A7D1.source = https://www.instagram.com/iguipiracicaba/
+PopupWebFrameBehaviour_E1B19587_F3AD_029D_41C0_25B916E74578.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d857.7421937905452!2d-45.36375776607976!3d-23.806960904544916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d2996692a9680f%3A0x3ff724158a1e6899!2sVilla%20Samoa%20Chal%C3%A9s%20Ilhabela!5e1!3m2!1spt-BR!2sbr!4v1705617394029!5m2!1spt-BR!2sbr
 LinkBehaviour_A251B205_B92B_9735_41E5_83B15D4E9076.source = https://www.instagram.com/iguipiracicaba/
-LinkBehaviour_9FA45FE3_8649_4EE9_41BD_A260EC059D66.source = https://www.instagram.com/iguipiracicaba/
+LinkBehaviour_9FA45FE3_8649_4EE9_41BD_A260EC059D66.source = https://www.instagram.com/villasamoa/
+LinkBehaviour_E866CB5A_FC95_B0F6_41E7_C87E84C2A7D1.source = https://www.instagram.com/villasamoa/
+PopupWebFrameBehaviour_77325B9E_141D_175F_41AE_70382BF0DD81.url = https://www.villasamoa.com.br/
+PopupWebFrameBehaviour_4BD5C803_141F_3125_418E_4E44D83696A3.url = https://www.villasamoa.com.br/a-villa/
 
 ## Hotspot
 
 ### Text
+HotspotPanoramaOverlayTextImage_5B359268_7461_52EE_41B0_2C48FF06AB75.text = BANHEIRO
 HotspotPanoramaOverlayTextImage_165FC526_3CE6_EEE1_41C7_C519C45FB8A8.text = CHALÉS  \
 PREMIUM
-HotspotPanoramaOverlayTextImage_17AC73C4_3CEB_29A2_41B3_710C8ABD0805.text = CHALÉS DUPLOS
 HotspotPanoramaOverlayTextImage_10F6C518_3C2B_2EA1_41C2_0ED80E52365A.text = CHALÉS DUPLOS
+HotspotPanoramaOverlayTextImage_17AC73C4_3CEB_29A2_41B3_710C8ABD0805.text = CHALÉS DUPLOS
 HotspotPanoramaOverlayTextImage_16A60FE3_3CD9_5967_41CA_F2104A94D8B2.text = CHALÉS PREMIUM
 HotspotPanoramaOverlayTextImage_147551F6_3CFB_2961_41A3_EA20D1FCBDED.text = CHALÉS, PISCINA \
 ESTACIONAMENTO
@@ -32,43 +33,63 @@ HotspotPanoramaOverlayTextImage_174DCA11_3CE9_FAA3_41C2_62BBC67390E1.text = ESPA
 HotspotPanoramaOverlayTextImage_16538267_3C29_2B6F_41CD_CBAF67FC87E1.text = GOURMET
 HotspotPanoramaOverlayTextImage_1638FDC7_3CEE_F9AF_41C7_2B8E8FAD1FEF.text = PISCINA
 HotspotPanoramaOverlayTextImage_11B24ADD_3C2B_7BA2_41CD_8E193D4F5F99.text = PREMIUM
+HotspotPanoramaOverlayTextImage_45D1BE13_745F_F222_41D7_56B64423C464.text = QUARTO 1
 HotspotPanoramaOverlayTextImage_14CBB1ED_3CFE_E963_41C9_50317E0CBC5F.text = R. Antero da Silva Pinto, 165 - Perequê
 HotspotPanoramaOverlayTextImage_16DF79AB_3CD9_79E7_419D_A878D9D513C4.text = SACADA
+HotspotPanoramaOverlayTextImage_4584F43C_7461_D666_41D8_0EBA984EB292.text = SAÍDA
+HotspotPanoramaOverlayTextImage_5A06D31E_7463_7223_41D3_4EF8E49BA303.text = SUITE
 HotspotPanoramaOverlayTextImage_17DFFEA0_3CF9_FBE1_41B1_7425E1EA4FC9.text = SUITE CASAL
 HotspotPanoramaOverlayTextImage_17CD2581_3CE7_29A3_41C6_7E683E342108.text = SUITE CASAL SAIDA
-HotspotPanoramaOverlayTextImage_106E930C_3C29_EAA1_41CE_C4C513ECF110.text = SUITES CASAL
 HotspotPanoramaOverlayTextImage_107D3AA1_3C3A_DBE3_41C5_4138A92BA3D3.text = SUITES CASAL
+HotspotPanoramaOverlayTextImage_106E930C_3C29_EAA1_41CE_C4C513ECF110.text = SUITES CASAL
 
 ## Media
 
 ### Audio
 audiores_0B1434AC_1E9F_1677_41B9_2C4F3CCFA4AC.mp3Url = media/audio_07ED81BB_1E9F_0E50_41A0_1B7B63881DD1_pt.mp3
 
-### Floorplan
-
 ### Image
-imlevel_06D6A5C9_3C69_69A3_41B2_3B3680B5B86D.url = media/map_25172A7E_3CDB_7B61_41CC_66B0E6DE823C_pt_0.jpg
-imlevel_06D685CA_3C69_69A1_41BD_DF9F33FAC093.url = media/map_25172A7E_3CDB_7B61_41CC_66B0E6DE823C_pt_1.jpg
-imlevel_06D6F5CA_3C69_69A1_41B9_8593323B7890.url = media/map_25172A7E_3CDB_7B61_41CC_66B0E6DE823C_pt_2.jpg
-imlevel_06D6E5CA_3C69_69A1_41CA_DF8F19E5F047.url = media/map_25172A7E_3CDB_7B61_41CC_66B0E6DE823C_pt_3.jpg
-imlevel_06D6C5CB_3C69_69A7_41A3_2DCAE9887FE1.url = media/map_25172A7E_3CDB_7B61_41CC_66B0E6DE823C_pt_4.jpg
-imlevel_11FD81B9_3C29_29E2_41BA_9754E53EA3C5.url = media/panorama_040865F8_234E_4F2A_41A0_B382919905BE_HS_gqwlr1fw_pt.png
-imlevel_11F7048F_3C29_2FBF_41A6_4641EA426634.url = media/panorama_04087292_2349_C5FE_41B0_0619ABC8D303_HS_2b12vb0r_pt.png
-imlevel_1336D318_3C2E_EAA1_41C1_1D87CB92E58A.url = media/panorama_040872EB_2349_C52E_41BB_864AA9BE5BFE_HS_huyqu2kg_pt.png
-imlevel_1643C063_3C29_2766_41BA_91172CDC57B2.url = media/panorama_040872EB_2349_C52E_41BB_864AA9BE5BFE_HS_r4x0ovbs_pt.png
-imlevel_0B0936AA_3C69_2BE1_41BE_22B589D639AC.url = media/panorama_040872EB_2349_C52E_41BB_864AA9BE5BFE_HS_woc0c4iu_pt.png
-imlevel_1640C099_3C29_27A2_41BA_5B7745A5D6EB.url = media/panorama_0408DE8D_234E_7DEB_4184_AE856FFD215A_HS_w27fiwpn_pt.png
-imlevel_164E5F80_3C2A_D9A2_41C1_2F4C500F44E1.url = media/panorama_040F0E4D_234E_5D6A_419F_0775E37A2588_HS_hab9km99_pt.png
-imlevel_16192F23_3C2A_DAE6_41BB_80F0E18BB011.url = media/panorama_040F4802_234E_44D9_4186_F420A5C7494C_HS_a54j13h6_pt.png
-imlevel_0FC68F41_3C29_5AA3_41BB_1D4C969DB716.url = media/panorama_040F7482_234E_4DD9_4195_3F008948844A_HS_368vgi1q_pt.png
-imlevel_13E05456_3C3A_EEA1_41BC_E7B3CC025909.url = media/panorama_040FB064_234A_455A_41B0_32F7C2EBF13A_HS_z3i3icns_pt.png
-imlevel_0FC80EE9_3C29_5B63_41B1_2B6290E8292F.url = media/panorama_040FFB08_234E_C4EA_41AD_3761B4EC9229_HS_0p74b07n_pt.png
-imlevel_0FC82E8F_3C29_5BBF_41CD_D028D8262DB1.url = media/panorama_040FFB08_234E_C4EA_41AD_3761B4EC9229_HS_cepuwvnc_pt.png
-imlevel_11F3C23C_3C29_2AE1_41C3_80C6867041DE.url = media/panorama_17D70429_3CDB_6EE3_41CE_02705C179935_HS_bs0lupyj_pt.png
-imlevel_11F1C2EA_3C29_2B61_41B8_5C556FFB923B.url = media/panorama_17D70429_3CDB_6EE3_41CE_02705C179935_HS_pjft6mbt_pt.png
-imlevel_11FDA1F8_3C29_2962_41A9_3FDD16A77023.url = media/panorama_17D70429_3CDB_6EE3_41CE_02705C179935_HS_wrs3oofe_pt.png
+imlevel_52492556_74E7_7622_41CF_D485D0E1DE85.url = media/panorama_040865F8_234E_4F2A_41A0_B382919905BE_HS_gqwlr1fw_pt.png
+imlevel_5271A90B_74E7_7E22_41D6_0D194CDC0D90.url = media/panorama_04087292_2349_C5FE_41B0_0619ABC8D303_HS_2b12vb0r_pt.png
+imlevel_524E6446_74E7_7622_41BF_FCA72D60146D.url = media/panorama_040872EB_2349_C52E_41BB_864AA9BE5BFE_HS_huyqu2kg_pt.png
+imlevel_524ED3F8_74E7_71EE_41CC_8B9B2F164D4D.url = media/panorama_040872EB_2349_C52E_41BB_864AA9BE5BFE_HS_r4x0ovbs_pt.png
+imlevel_524CA39F_74E7_7222_41C8_C62D83E35C46.url = media/panorama_040872EB_2349_C52E_41BB_864AA9BE5BFE_HS_woc0c4iu_pt.png
+imlevel_524FA4B1_74E7_767E_41B8_F9F2A324CF78.url = media/panorama_0408DE8D_234E_7DEB_4184_AE856FFD215A_HS_w27fiwpn_pt.png
+imlevel_47180AA1_7460_D21E_41D3_3420223B0B63.url = media/panorama_04096478_234E_4D29_41BC_4CB836C1F911_HS_yeuroq5p_pt.png
+imlevel_471AC9C1_7460_DE1E_41D1_24B6871F4F17.url = media/panorama_04097EC9_234E_5D6A_41B7_F72042CE934F_HS_ddl0uaed_pt.png
+imlevel_471AFA19_7460_D22E_41BB_AF0A66F6EE6A.url = media/panorama_04097EC9_234E_5D6A_41B7_F72042CE934F_HS_uxu5dgy1_pt.png
+imlevel_4719EA5F_7460_D222_41C8_B25F7F7E97E8.url = media/panorama_04097EC9_234E_5D6A_41B7_F72042CE934F_HS_xe71do9p_pt.png
+imlevel_524C6329_74E7_726E_41D0_9EC05146469D.url = media/panorama_040F0E4D_234E_5D6A_419F_0775E37A2588_HS_hab9km99_pt.png
+imlevel_524322B5_74E7_7266_41CA_46CD9FA29CF9.url = media/panorama_040F4802_234E_44D9_4186_F420A5C7494C_HS_a54j13h6_pt.png
+imlevel_52489514_74E7_7626_41D8_FE35A39F8E73.url = media/panorama_040F7482_234E_4DD9_4195_3F008948844A_HS_368vgi1q_pt.png
+imlevel_5270D87B_74E7_7EE2_41D4_97378B59E11B.url = media/panorama_040FB064_234A_455A_41B0_32F7C2EBF13A_HS_z3i3icns_pt.png
+imlevel_5240823D_74E7_7266_41D5_1C3DF8234E11.url = media/panorama_040FFB08_234E_C4EA_41AD_3761B4EC9229_HS_0p74b07n_pt.png
+imlevel_5247C1BD_74E7_4E66_41DA_FD21B43FF0CB.url = media/panorama_040FFB08_234E_C4EA_41AD_3761B4EC9229_HS_cepuwvnc_pt.png
+imlevel_524B7607_74E7_7222_41D1_5CC1B93344CA.url = media/panorama_17D70429_3CDB_6EE3_41CE_02705C179935_HS_bs0lupyj_pt.png
+imlevel_527596CA_74E7_7222_41C3_0502122F7DB5.url = media/panorama_17D70429_3CDB_6EE3_41CE_02705C179935_HS_pjft6mbt_pt.png
+imlevel_524B95AC_74E7_7666_41D9_F9041DB845B0.url = media/panorama_17D70429_3CDB_6EE3_41CE_02705C179935_HS_wrs3oofe_pt.png
 
 ### Title
+photo_5109344D_7420_B626_41D6_3CAE7D032E20.label = 20201102_180812-01
+photo_5109344D_7420_B626_41D6_3CAE7D032E20.label = 20201102_180812-01
+photo_57CD6964_7420_BEE6_41A5_62D90011AE74.label = 20210101_183326-01
+photo_57CD6964_7420_BEE6_41A5_62D90011AE74.label = 20210101_183326-01
+photo_57CD9EE5_7420_B3E6_41D1_E59843619630.label = 20210101_183412-01
+photo_57CD9EE5_7420_B3E6_41D1_E59843619630.label = 20210101_183412-01
+photo_57CC5874_7421_5EE6_41A7_F4A59C34912A.label = 20210103_130638-01
+photo_57CC5874_7421_5EE6_41A7_F4A59C34912A.label = 20210103_130638-01
+photo_57CC5DDD_7421_5626_41D2_946AFA86165F.label = 20220221_165450-01
+photo_57CC5DDD_7421_5626_41D2_946AFA86165F.label = 20220221_165450-01
+photo_57CC733F_7421_7262_4198_6E153AE87F3E.label = 20220418_164951-01
+photo_57CC733F_7421_7262_4198_6E153AE87F3E.label = 20220418_164951-01
+photo_57CCA8A0_7421_7E1E_41CE_79D5C4A66148.label = 20220418_165027-01
+photo_57CCA8A0_7421_7E1E_41CE_79D5C4A66148.label = 20220418_165027-01
+photo_57CF1E1E_7421_7222_41D5_F8D4C93CF180.label = 20220418_165138-01
+photo_57CF1E1E_7421_7222_41D5_F8D4C93CF180.label = 20220418_165138-01
+photo_57CCC36B_7421_52E3_41AF_B75EC2D6B142.label = 20220605_112214-01-01
+photo_57CCC36B_7421_52E3_41AF_B75EC2D6B142.label = 20220605_112214-01-01
+photo_57CCB8B4_7421_5E66_41D0_35D9467A120D.label = 20220722_180929-01
+photo_57CCB8B4_7421_5E66_41D0_35D9467A120D.label = 20220722_180929-01
 panorama_04094883_234E_45DE_41A3_B70DD2FB1432.label = Banheiro Chalé Duplos
 panorama_040F5E5A_234E_7D69_4196_E1FD89ABA8A3.label = Banheiro Externo
 panorama_040A60F6_234A_4526_4192_21850C6D5098.label = Banheiro Inferior Chalé G
@@ -76,7 +97,29 @@ panorama_040AC237_234A_4527_41B4_0F4F40120600.label = Banheiro Suite
 panorama_0408EBE4_234E_DB5A_41B9_47D284105396.label = Churrasqueira
 panorama_040BDDB5_234A_DF3B_4195_879AFBE360AA.label = Closed
 panorama_040A89C5_234A_475B_41C1_9CAD51D5286A.label = Cozinha Chalé G
-map_25172A7E_3CDB_7B61_41CC_66B0E6DE823C.label = Cópia de DSC_1277-01
+album_6899A6E8_7423_53EE_41D1_042F84AAFEAC_0.label = DSC_1277-01
+photo_68D1D75B_742F_D222_41C4_BBBE05B0FEC6.label = DSC_1285-01
+photo_68D1D75B_742F_D222_41C4_BBBE05B0FEC6.label = DSC_1285-01
+photo_69946436_742F_F662_41BB_04F791F6EA58.label = DSC_1319-01
+photo_69946436_742F_F662_41BB_04F791F6EA58.label = DSC_1319-01
+photo_69930168_742F_CEEE_41D5_D884B0BB398D.label = DSC_1350-01
+photo_69930168_742F_CEEE_41D5_D884B0BB398D.label = DSC_1350-01
+photo_6993EE6B_742F_D2E2_41D5_9B9D13CBDC57.label = DSC_1359-01
+photo_6993EE6B_742F_D2E2_41D5_9B9D13CBDC57.label = DSC_1359-01
+photo_69932B76_742F_B2E2_41BF_2DAF39A3A133.label = DSC_1361-01
+photo_69932B76_742F_B2E2_41BF_2DAF39A3A133.label = DSC_1361-01
+photo_6993095A_742F_5E22_41DD_443DBB70EA7F.label = DSC_1363-01
+photo_6993095A_742F_5E22_41DD_443DBB70EA7F.label = DSC_1363-01
+photo_6993C64D_742F_7226_4186_1A1701808CCF.label = DSC_1367-01
+photo_6993C64D_742F_7226_4186_1A1701808CCF.label = DSC_1367-01
+photo_699323E3_742F_51E2_41C6_10F9C0DFEED8.label = DSC_1368-01
+photo_699323E3_742F_51E2_41C6_10F9C0DFEED8.label = DSC_1368-01
+photo_6993E17C_742F_4EE6_41D7_687E48B6077C.label = DSC_1378-01
+photo_6993E17C_742F_4EE6_41D7_687E48B6077C.label = DSC_1378-01
+photo_69933E9E_7420_B222_4172_D281C4E47BFE.label = DSC_1385-01
+photo_69933E9E_7420_B222_4172_D281C4E47BFE.label = DSC_1385-01
+photo_69939B7A_7420_D2E2_41D4_43815A12615E.label = DSC_1389-01
+photo_69939B7A_7420_D2E2_41D4_43815A12615E.label = DSC_1389-01
 panorama_17D70429_3CDB_6EE3_41CE_02705C179935.label = ENTRADA SUITE CASAL
 panorama_040872EB_2349_C52E_41BB_864AA9BE5BFE.label = Entrada CHALÉS DUPLOS
 panorama_040865F8_234E_4F2A_41A0_B382919905BE.label = Entrada D Chalé GR
@@ -90,9 +133,12 @@ panorama_0408DE8D_234E_7DEB_4184_AE856FFD215A.label = Hall Chalé P
 panorama_040F741C_2349_CCE9_41BF_9851090AFA48.label = Hall Chalés FUNDO G
 panorama_040F7482_234E_4DD9_4195_3F008948844A.label = Hall Rede
 panorama_040EA3A8_234E_CB2A_41B0_18A67FC45789.label = Hall Superior Chalé P
+photo_57CCCDE2_7421_51E2_417C_1A7F72C63C38.label = IMG_8293-01
+photo_57CCCDE2_7421_51E2_417C_1A7F72C63C38.label = IMG_8293-01
 panorama_040A0BEC_234B_FB29_41B9_3ED82CD8B991.label = Janela Chalé G
 panorama_040F9213_234F_C4FF_417C_9377099C6D4D.label = Jardim fundos
 panorama_1AA4663C_3CDB_2AE1_41C0_C4772B45ECF5.label = MESA REDONDA GOURMET
+album_56E50596_742F_B622_41BC_9EDB9B62AD50_0.label = Perequê_
 panorama_040FFB08_234E_C4EA_41AD_3761B4EC9229.label = Piscina 1
 panorama_040F4802_234E_44D9_4186_F420A5C7494C.label = Piscina 2 E
 panorama_040F7EFB_234F_DD2F_41A1_EBA5A34694CA.label = Piscina 3F
@@ -110,6 +156,77 @@ panorama_0409B5CA_2349_CF6E_41BA_CA474560DFDD.label = Sala 1 Chalé G
 panorama_04095D69_2349_DF2A_417B_734CEB0F984D.label = Sala 2 Chalé G
 panorama_04097EC9_234E_5D6A_41B7_F72042CE934F.label = Sala Chalé P
 panorama_040AE3B6_234A_CB26_41A0_E5C7DFECF0DB.label = Topo Escada Chalé G
+photo_6BD1E99F_7421_5E22_41D1_EA01D0A6418F.label = bangalo premium villa samoa (12)
+photo_6BD1E99F_7421_5E22_41D1_EA01D0A6418F.label = bangalo premium villa samoa (12)
+photo_6BD022F5_7421_53E6_41D7_2687B87CB75C.label = bangalo premium villa samoa (14)
+photo_6BD022F5_7421_53E6_41D7_2687B87CB75C.label = bangalo premium villa samoa (14)
+photo_6BD03C0B_7421_B622_41C8_6BFA36B75DA6.label = bangalo premium villa samoa (16)
+photo_6BD03C0B_7421_B622_41C8_6BFA36B75DA6.label = bangalo premium villa samoa (16)
+photo_6BD07928_7421_DE6E_41C6_7C0F0A31C7B5.label = bangalo premium villa samoa (17)
+photo_6BD07928_7421_DE6E_41C6_7C0F0A31C7B5.label = bangalo premium villa samoa (17)
+photo_6BD1A63C_7421_F266_41DB_B6BC41CB75C4.label = bangalo premium villa samoa (18)
+photo_6BD1A63C_7421_F266_41DB_B6BC41CB75C4.label = bangalo premium villa samoa (18)
+photo_6BD07F95_7421_D227_41D0_14EFC1633CDA.label = bangalo premium villa samoa (20)
+photo_6BD07F95_7421_D227_41D0_14EFC1633CDA.label = bangalo premium villa samoa (20)
+photo_6BD04B7A_7421_B2E2_41C4_491C3A8AA0A1.label = bangalo premium villa samoa (21)
+photo_6BD04B7A_7421_B2E2_41C4_491C3A8AA0A1.label = bangalo premium villa samoa (21)
+photo_6BD09897_7421_5E22_41D8_51A6D1342DB1.label = bangalo premium villa samoa (22)
+photo_6BD09897_7421_5E22_41D8_51A6D1342DB1.label = bangalo premium villa samoa (22)
+photo_6BD0C537_7421_7662_419B_C0B0D859151D.label = bangalo premium villa samoa (23)
+photo_6BD0C537_7421_7662_419B_C0B0D859151D.label = bangalo premium villa samoa (23)
+photo_6BD08207_7421_5222_41D2_79B8D759C513.label = bangalo premium villa samoa (24)
+photo_6BD08207_7421_5222_41D2_79B8D759C513.label = bangalo premium villa samoa (24)
+photo_6BD05183_743F_4E22_41DA_C508A1FF794A.label = bangalo premium villa samoa (5)
+photo_6BD05183_743F_4E22_41DA_C508A1FF794A.label = bangalo premium villa samoa (5)
+photo_6BD00E43_7420_B223_41CC_10CF9CF2343F.label = bangalo premium villa samoa (6)
+photo_6BD00E43_7420_B223_41CC_10CF9CF2343F.label = bangalo premium villa samoa (6)
+photo_6BD01A0D_7420_D226_41AD_1F5C8A1C7D95.label = bangalo premium villa samoa (7)
+photo_6BD01A0D_7420_D226_41AD_1F5C8A1C7D95.label = bangalo premium villa samoa (7)
+photo_6BD01679_7420_F2EE_41C0_99DF4E14CC34.label = bangalo premium villa samoa (8)
+photo_6BD01679_7420_F2EE_41C0_99DF4E14CC34.label = bangalo premium villa samoa (8)
+photo_6BD1E2E0_7420_D21E_41D4_B4D51A102FC2.label = bangalo premium villa samoa (9)
+photo_6BD1E2E0_7420_D21E_41D4_B4D51A102FC2.label = bangalo premium villa samoa (9)
+photo_6ABE5998_7421_5E2E_41CA_C683D4CE4F8D.label = chalé duplo villa samoa (1)
+photo_6ABE5998_7421_5E2E_41CA_C683D4CE4F8D.label = chalé duplo villa samoa (1)
+photo_6B239B96_7420_B222_41D6_7B1EB5BC88A4.label = chalé duplo villa samoa (10)
+photo_6B239B96_7420_B222_41D6_7B1EB5BC88A4.label = chalé duplo villa samoa (10)
+photo_6B3A156F_7421_76E2_41C8_387C745C205F.label = chalé duplo villa samoa (2)
+photo_6B3A156F_7421_76E2_41C8_387C745C205F.label = chalé duplo villa samoa (2)
+photo_6B23C220_7421_521E_41B4_583D29C7E336.label = chalé duplo villa samoa (3)
+photo_6B23C220_7421_521E_41B4_583D29C7E336.label = chalé duplo villa samoa (3)
+photo_6B239E94_7421_5226_41CD_263B8DA3F87E.label = chalé duplo villa samoa (4)
+photo_6B239E94_7421_5226_41CD_263B8DA3F87E.label = chalé duplo villa samoa (4)
+photo_6B23CAF6_7420_B3E2_41D2_347476F52DCD.label = chalé duplo villa samoa (5)
+photo_6B23CAF6_7420_B3E2_41D2_347476F52DCD.label = chalé duplo villa samoa (5)
+photo_6B2387C7_7420_D222_41DC_A774DEFFCD20.label = chalé duplo villa samoa (6)
+photo_6B2387C7_7420_D222_41DC_A774DEFFCD20.label = chalé duplo villa samoa (6)
+photo_6B2354B9_7420_F66E_41C6_2E2562ED6A9F.label = chalé duplo villa samoa (7)
+photo_6B2354B9_7420_F66E_41C6_2E2562ED6A9F.label = chalé duplo villa samoa (7)
+album_6A8CEDA2_7421_5663_41A3_1730AF4154CF_0.label = chalé duplo villa samoa (8)
+photo_6B237E14_7420_D226_41AD_41A628C581D5.label = chalé duplo villa samoa (9)
+photo_6B237E14_7420_D226_41AD_41A628C581D5.label = chalé duplo villa samoa (9)
+photo_564E8CFF_7421_77E2_41B7_54F8E5B11F9F.label = suite casal villa samoa(1)
+photo_564E8CFF_7421_77E2_41B7_54F8E5B11F9F.label = suite casal villa samoa(1)
+photo_54BEFA16_7421_5222_41D1_9464197F5257.label = suite casal villa samoa(2)
+photo_54BEFA16_7421_5222_41D1_9464197F5257.label = suite casal villa samoa(2)
+photo_54BE5758_7421_B22E_418B_7520D96B748A.label = suite casal villa samoa(3)
+photo_54BE5758_7421_B22E_418B_7520D96B748A.label = suite casal villa samoa(3)
+photo_54BE7490_7421_D63E_41D5_21E206786DCC.label = suite casal villa samoa(4)
+photo_54BE7490_7421_D63E_41D5_21E206786DCC.label = suite casal villa samoa(4)
+album_56A3847A_7420_F6E2_41D1_E128510DEC02_0.label = suite casal villa samoa(5)
+photo_54BE6EF7_7421_F3E2_41C3_F861FE24841B.label = suite casal villa samoa(6)
+photo_54BE6EF7_7421_F3E2_41C3_F861FE24841B.label = suite casal villa samoa(6)
+photo_54BE12F0_7421_D3FE_41C0_EE8ED519BB6C.label = suite casal villa samoa(7)
+photo_54BE12F0_7421_D3FE_41C0_EE8ED519BB6C.label = suite casal villa samoa(7)
+photo_54BE5650_7421_D23E_41D9_5C75FAE081B0.label = suite casal villa samoa(8)
+photo_54BE5650_7421_D23E_41D9_5C75FAE081B0.label = suite casal villa samoa(8)
+photo_57CF3598_7421_B62E_41C5_82AD86A00D37.label = this is living
+photo_57CF3598_7421_B62E_41C5_82AD86A00D37.label = this is living
+album_56E50596_742F_B622_41BC_9EDB9B62AD50.label = Álbum de Fotos Ilha Bella
+album_6B9785C7_743F_7622_41AA_8BDBDFCC8152.label = Álbum de Fotos bangalo premium villa samoa
+album_6A8CEDA2_7421_5663_41A3_1730AF4154CF.label = Álbum de Fotos chalé duplo villa samoa
+album_56A3847A_7420_F6E2_41D1_E128510DEC02.label = Álbum de Fotos suite casal villa samoa
+album_6899A6E8_7423_53EE_41D1_042F84AAFEAC.label = Álbum de Fotos área comum
 
 ## Skin
 
@@ -127,23 +244,22 @@ Button_7DE3659A_6911_E2E0_41C3_93316288CBE4_mobile.label = SAIBA MAIS
 Button_7DE3659A_6911_E2E0_41C3_93316288CBE4.label = SAIBA MAIS
 
 ### Image
-Image_166E0C56_25CA_BD66_41BA_F698E49F117C.url = skin/Image_166E0C56_25CA_BD66_41BA_F698E49F117C_pt.png
 Image_20666C92_2E01_C9F2_41C0_F1CF0A7D964F.url = skin/Image_20666C92_2E01_C9F2_41C0_F1CF0A7D964F_pt.png
 Image_39483E54_2E03_C970_41A1_AEA6CA06B977.url = skin/Image_39483E54_2E03_C970_41A1_AEA6CA06B977_pt.png
 Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile_pt.png
 Image_6924E557_649A_33AC_41BA_A1E22386BC22.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_pt.png
+Image_6F9C6D37_7460_D662_41B4_683B9CF37318.url = skin/Image_6F9C6D37_7460_D662_41B4_683B9CF37318_pt.jpeg
 Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_pt.jpg
-Image_AC701E99_B9F6_6F5A_41E1_4973042D0A4B_mobile.url = skin/Image_AC701E99_B9F6_6F5A_41E1_4973042D0A4B_mobile_pt.png
 Image_C0E58733_D022_2D54_41D7_04B5A16870B9.url = skin/Image_C0E58733_D022_2D54_41D7_04B5A16870B9_pt.png
 Image_C3340279_D022_67D4_41E2_BD0D6A7EDB89.url = skin/Image_C3340279_D022_67D4_41E2_BD0D6A7EDB89_pt.png
 Image_EC4BE021_F3A7_0195_41EE_6C0072D0B530.url = skin/Image_EC4BE021_F3A7_0195_41EE_6C0072D0B530_pt.png
 
 ### Multiline Text
-HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:2.8999999999999986vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.9vw;word-break:break-word;font-family:'Exo';"><B><I>iGUi Piscinas</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.45vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.4499999999999993vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:1.45vw;word-break:break-word;font-family:'Exo';"><B><I>Sobre a iGUi</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.45vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.4499999999999993vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:1.45vw;word-break:break-word;font-family:'Exo';"><B><I>“iGUi é áGUa”</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.3409961685823837vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">Ë, ëg, ü, üg, y, yg, i, ig, são traduções de água na língua tupi guarani, foi por respeito e para homenagear nossos antepassados que escolhemos a nossa marca.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.34vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.3409961685823837vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">Temos grande admiração por sua harmonia com a natureza e a profunda ligação que tinham com a água.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.34vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.3409961685823837vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">Viviam à beira mar, à margem de rios, lagos e os nomeavam sempre respeitosamente, pois necessitavam e adoravam a fonte da vida. A água, "iGUi".</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.34vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.3409961685823837vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">Nosso trabalho está sempre à frente no tempo, desenvolvendo e utilizando o melhor em tecnologia para levar felicidade. Paralelamente, estamos conectados à sustentabilidade, pois devemos isso aos nossos índios e às gerações futuras. São inúmeros programas dedicados ao meio ambiente e sua conservação.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.34vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.3409961685823837vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">Esses dois pilares, unidos à dedicação de todos os colaboradores e parceiros em produzir mais e melhor para o consumidor, que formam nossos conceitos básicos.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.34vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.3409961685823837vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">Hoje são mais de 10.000 pessoas ao redor do mundo, em mais de 50 países dando o melhor de si para produzir e realizar sonhos.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.245210727969353vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:1.25vw;word-break:break-word;font-family:'Roboto Black';">“iGUi A SUA PISCINA”</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.25vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:4.722222222222246vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vw;word-break:break-word;font-family:'Exo';"><B><I>iGUi Piscinas</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.67vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.45vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:4.205000000000013vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:4.21vw;word-break:break-word;font-family:'Exo';"><B><I>Sobre a iGUi</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:4.205000000000013vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:4.21vw;word-break:break-word;font-family:'Exo';"><B><I>“iGUi é áGUa”</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.67vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.888888888888902vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">Ë, ëg, ü, üg, y, yg, i, ig, são traduções de água na língua tupi guarani, foi por respeito e para homenagear nossos antepassados que escolhemos a nossa marca.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.888888888888902vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">Temos grande admiração por sua harmonia com a natureza e a profunda ligação que tinham com a água.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.888888888888902vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">Viviam à beira mar, à margem de rios, lagos e os nomeavam sempre respeitosamente, pois necessitavam e adoravam a fonte da vida. A água, "iGUi".</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.888888888888902vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">Nosso trabalho está sempre à frente no tempo, desenvolvendo e utilizando o melhor em tecnologia para levar felicidade. Paralelamente, estamos conectados à sustentabilidade, pois devemos isso aos nossos índios e às gerações futuras. São inúmeros programas dedicados ao meio ambiente e sua conservação.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.888888888888902vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">Esses dois pilares, unidos à dedicação de todos os colaboradores e parceiros em produzir mais e melhor para o consumidor, que formam nossos conceitos básicos.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.888888888888902vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">Hoje são mais de 10.000 pessoas ao redor do mundo, em mais de 50 países dando o melhor de si para produzir e realizar sonhos.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.6111111111111134vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:3.61vw;word-break:break-word;font-family:'Roboto Black';">“iGUi A SUA PISCINA”</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.61vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_34C9EA4A_2B45_3AFB_41C2_E20F920766E4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 10px rgba(0,0,0,0.6);text-align:left;font-size:6.5600000000000165vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;word-break:break-word;font-family:'Exo';"><B><I>  TOUR 360º em DESENVOLVIMENTO</I></B></SPAN></SPAN></DIV></div>
-HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 5px rgba(0,0,0,0.6);text-align:left;font-size:4.809999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#40bbff;font-size:4.81vmin;word-break:break-word;font-family:'Exo';"><B><I>CHALÉS</I></B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 5px rgba(0,0,0,0.6);line-height:118%;text-align:left;font-size:6.5600000000000165vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;word-break:break-word;font-family:'Exo';"><B><I>ILHA BELA</I></B></SPAN></SPAN></DIV></div>
-HTMLText_349DA78A_2B5F_4A7B_41C0_B01A6DD854C1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 5px rgba(0,0,0,0.6);text-align:left;font-size:4.809999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#40bbff;font-size:4.81vmin;word-break:break-word;font-family:'Exo';"><B><I>TOUR 360º</I></B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 5px rgba(0,0,0,0.6);line-height:118%;text-align:left;font-size:6.5600000000000165vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;word-break:break-word;font-family:'Exo';"><B><I>DESENVOLVIMENTO</I></B></SPAN></SPAN></DIV></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:8.409999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.41vw;word-break:break-word;font-family:'Exo';"><B><I>Villa Samoa</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.67vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:5.27777777777778vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:5.28vw;word-break:break-word;font-family:'Exo';"><B><I>ILHA BELA</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.67vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:6.13107822410148vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666600;font-size:6.13vw;word-break:break-word;font-family:'Roboto Medium';">Seja bem-vindo à Villa Samoa: sua casa em Ilhabela!</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:3.888888888888911vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">A Villa Samoa Chalés Ilhabela é uma excelente escolha para você que está procurando um lugar aconchegante e confortável em Ilhabela. Você poderá desfrutar de dias ensolarados na Praia do Perequê que está localizada a apenas 100 metros de distância.</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:3.888888888888911vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">Estamos a uma curta distância de vários restaurantes, bares e o famoso Shopping Ardhentia, proporcionando uma excelente variedade de lojas, entretenimento e gastronomia para toda família.</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:3.888888888888911vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">A apenas 3,5km está o Centro Histórico de Ilhabela, com sua arquitetura pitoresca e repleta de cultura.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:6.13107822410148vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666600;font-size:6.13vw;word-break:break-word;font-family:'Roboto Medium';">Hospedagem próxima a tudo o que você precisa em Ilhabela</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:3.888888888888911vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">Com todas essas opções ao seu alcance, você pode facilmente planejar um dia cheio de atividades ou simplesmente relaxar na praia e desfrutar do sol. E com os chalés acolhedores da Villa Samoa para voltar no final do dia, você terá o refúgio perfeito para descansar e recarregar as energias para o dia seguinte.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.888888888888911vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">A Villa Samoa espera por você para proporcionar uma experiência única e inesquecível.</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:3.888888888888911vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">Viviam à beira mar, à margem de rios, lagos e os nomeavam sempre respeitosamente, pois necessitavam e adoravam a fonte da vida. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:6.13107822410148vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666600;font-size:6.13vw;word-break:break-word;font-family:'Roboto Medium';"><B>Conforto e comodidade a passos da Praia e do Centro Histórico de Ilhabela</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:3.888888888888911vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">Imagine acordar pela manhã, dar alguns passos e sentir a areia macia entre os dedos dos pés enquanto admira o mar cristalino. Após um dia repleto de diversão e sol, você pode retornar ao nosso aconchegante refúgio, onde encontrará todo o conforto necessário para relaxar e recarregar as energias.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:14.5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.888888888888911vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vw;word-break:break-word;font-family:'Roboto Medium';">Além disso, a proximidade do Centro Histórico de Ilhabela permite que você explore as charmosas ruas e praças, mergulhando na rica história e cultura desta encantadora ilha.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:2.899999999999999vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.9vw;word-break:break-word;font-family:'Exo';"><B><I>Villa Samoa</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.57vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.8199233716475096vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:1.82vw;word-break:break-word;font-family:'Exo';"><B><I>ILHA BELA</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.57vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:2.114164904862579vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666600;font-size:2.11vw;word-break:break-word;font-family:'Roboto Medium';">Seja bem-vindo à Villa Samoa: sua casa em Ilhabela!</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:1.340996168582384vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">A Villa Samoa Chalés Ilhabela é uma excelente escolha para você que está procurando um lugar aconchegante e confortável em Ilhabela. Você poderá desfrutar de dias ensolarados na Praia do Perequê que está localizada a apenas 100 metros de distância.</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:1.340996168582384vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">Estamos a uma curta distância de vários restaurantes, bares e o famoso Shopping Ardhentia, proporcionando uma excelente variedade de lojas, entretenimento e gastronomia para toda família.</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:1.340996168582384vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">A apenas 3,5km está o Centro Histórico de Ilhabela, com sua arquitetura pitoresca e repleta de cultura.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.34vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:2.114164904862579vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666600;font-size:2.11vw;word-break:break-word;font-family:'Roboto Medium';">Hospedagem próxima a tudo o que você precisa em Ilhabela</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:1.340996168582384vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">Com todas essas opções ao seu alcance, você pode facilmente planejar um dia cheio de atividades ou simplesmente relaxar na praia e desfrutar do sol. E com os chalés acolhedores da Villa Samoa para voltar no final do dia, você terá o refúgio perfeito para descansar e recarregar as energias para o dia seguinte.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.34vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.340996168582384vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">A Villa Samoa espera por você para proporcionar uma experiência única e inesquecível.</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:1.340996168582384vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">Viviam à beira mar, à margem de rios, lagos e os nomeavam sempre respeitosamente, pois necessitavam e adoravam a fonte da vida. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.34vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:2.114164904862579vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666600;font-size:2.11vw;word-break:break-word;font-family:'Roboto Medium';"><B>Conforto e comodidade a passos da Praia e do Centro Histórico de Ilhabela</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:1.340996168582384vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">Imagine acordar pela manhã, dar alguns passos e sentir a areia macia entre os dedos dos pés enquanto admira o mar cristalino. Após um dia repleto de diversão e sol, você pode retornar ao nosso aconchegante refúgio, onde encontrará todo o conforto necessário para relaxar e recarregar as energias.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.34vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.340996168582384vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.34vw;word-break:break-word;font-family:'Roboto Medium';">Além disso, a proximidade do Centro Histórico de Ilhabela permite que você explore as charmosas ruas e praças, mergulhando na rica história e cultura desta encantadora ilha.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.34vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_34C9EA4A_2B45_3AFB_41C2_E20F920766E4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 10px rgba(0,0,0,0.6);text-align:left;font-size:6.560000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;word-break:break-word;font-family:'Exo';"><B><I>  TOUR 360º em DESENVOLVIMENTO</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 5px rgba(0,0,0,0.6);text-align:left;font-size:4.809999999999992vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#40bbff;font-size:4.81vmin;word-break:break-word;font-family:'Exo';"><B><I>CHALÉS</I></B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 5px rgba(0,0,0,0.6);line-height:118%;text-align:left;font-size:6.560000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;word-break:break-word;font-family:'Exo';"><B><I>ILHA BELA</I></B></SPAN></SPAN></DIV></div>
+HTMLText_349DA78A_2B5F_4A7B_41C0_B01A6DD854C1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 5px rgba(0,0,0,0.6);text-align:left;font-size:4.809999999999992vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#40bbff;font-size:4.81vmin;word-break:break-word;font-family:'Exo';"><B><I>TOUR 360º</I></B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 5px rgba(0,0,0,0.6);line-height:118%;text-align:left;font-size:6.560000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;word-break:break-word;font-family:'Exo';"><B><I>DESENVOLVIMENTO</I></B></SPAN></SPAN></DIV></div>
 
 ## Tour
 
