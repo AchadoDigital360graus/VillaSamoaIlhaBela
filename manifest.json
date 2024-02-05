@@ -1,6 +1,7 @@
 {
  "display": "fullscreen",
  "theme_color": "#FFFFFF",
+ "start_url": "index.htm",
  "name": "Villa Samoa Chalés",
  "icons": [
   {
@@ -39,7 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm",
  "background_color": "#FFFFFF",
  "description": "Ilha Bela"
 }
