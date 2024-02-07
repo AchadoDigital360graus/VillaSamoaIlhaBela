@@ -291,4 +291,4 @@ HTMLText_349DA78A_2B5F_4A7B_41C0_B01A6DD854C1_mobile.html = <div style="text-ali
 tour.description = Tour Virtual Personalizado 360º
 
 ### Title
-tour.name = TOUR VIRTUAL VILLA SAMOA Ilha Bela
+tour.name = TOUR VIRTUAL 360º VILLA SAMOA Ilha Bela
