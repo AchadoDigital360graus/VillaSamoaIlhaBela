@@ -1,7 +1,7 @@
 {
  "background_color": "#FFFFFF",
  "display": "fullscreen",
- "name": "TOUR VIRTUAL 360º VILLA SAMOA Ilha Bela",
+ "name": "Tour Virtual 360º       VILLA SAMOA - Ilha Bela",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +40,5 @@
   }
  ],
  "theme_color": "#FFFFFF",
- "description": "Tour Virtual Personalizado 360º",
  "start_url": "index.htm"
 }
